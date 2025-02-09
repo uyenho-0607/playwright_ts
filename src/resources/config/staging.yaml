@@ -1,0 +1,8 @@
+user: auto763e90_web_test
+domain: flostage.com
+password: Aa@12345
+urls:
+  base: https://flo.k8s.flostage.com
+  api_oauth2: https://oauth2-api.k8s.flostage.com
+  api_v4: https://v41-api.k8s.flostage.com
+  

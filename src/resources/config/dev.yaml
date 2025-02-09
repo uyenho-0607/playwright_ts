@@ -1,0 +1,9 @@
+user: auto763e90_web_test
+domain: flodev.net
+password: QWFAMTIzNDU=
+urls:
+  base: https://flo.k8s.flodev.net
+  api_oauth2: https://oauth2-api.k8s.flodev.net
+  api_v4: https://v41-api.k8s.flodev.net
+  api_sabredav: https://dav.k8s.flodev.net
+  
